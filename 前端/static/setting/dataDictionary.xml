@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataDictionary>
+	<vehicleType>
+		<type1>轿车</type1>
+		<type2>货车</type2>
+    <type3>卡车</type3>
+	</vehicleType>
+</dataDictionary>
